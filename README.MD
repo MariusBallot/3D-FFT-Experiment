@@ -1,4 +1,4 @@
-# :sound: Webpack-Three-Starter
+# :sound: 3D FFT WebGL Experiment
 
 <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Npm-logo.svg/1280px-Npm-logo.svg.png" width="100">
